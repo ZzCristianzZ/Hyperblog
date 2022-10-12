@@ -1,0 +1,22 @@
+body
+{
+    color:rgb(48, 43, 46);
+    text-align: center;
+    font-family:"Arial";
+    font-size:16px;
+    margin:0;
+    padding:0;
+}
+#container
+{
+    width: 70%;
+    padding:1em;
+    text-align: left;
+    border: 1px solid rgba(240, 0, 0, 0.945);
+    margin:  0 auto;
+}
+
+#container h1
+{
+    font-size:20px;
+}
